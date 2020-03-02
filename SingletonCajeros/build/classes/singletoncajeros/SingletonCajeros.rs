@@ -1,0 +1,2 @@
+singletonCajeros.SingletonCajeros
+singletonbanco.SingletonCajeros

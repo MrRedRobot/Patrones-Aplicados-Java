@@ -1,0 +1,1 @@
+singletonCajeros.Restaurante
